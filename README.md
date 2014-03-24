@@ -9,7 +9,8 @@ V 0.1 -- 140324
 
 Chapter 1. 기본적인 Makefile 만들기
 
-    1.1 메이크 파일 만들기 (Helloworld.c)
+    1.1 메이크 파일 만들기 (Helloworld.c) - compile
+    1.2 Sub CMakeList 만들기 (/src)
 
 Chapter 2. Cross Compiler Setting
 
